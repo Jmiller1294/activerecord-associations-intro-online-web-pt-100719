@@ -1,0 +1,1 @@
+class Toy < ActiveRecord::Base
